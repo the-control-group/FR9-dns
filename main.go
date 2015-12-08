@@ -6,7 +6,7 @@ import (
 
 	log "github.com/Sirupsen/logrus"
 	"github.com/miekg/dns"
-	"github.com/the-control-group/simple-dns/settings"
+	"github.com/the-control-group/FR9-dns/settings"
 )
 
 var (
