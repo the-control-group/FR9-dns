@@ -1,5 +1,5 @@
 listen = ":8053"
-log-level = "info"
+log-level = "debug"
 
 recursors = ["8.8.8.8:53", "8.8.4.4:53"]
 
